@@ -10,7 +10,6 @@
     "multer": "*"
   },
   "scripts": {
-    "start": "node app.js",
-    "vercel-build": "echo-build"
+    "start": "node app.js"
    }
 }
